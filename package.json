@@ -1,5 +1,5 @@
 {
-  "name": "express",
+  "name": "express1",
   "version": "1.0.0",
   "description": "Test1",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sumitrke/express/issues"
   },
-  "homepage": "https://github.com/sumitrke/express#readme"
+  "homepage": "https://github.com/sumitrke/express#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
